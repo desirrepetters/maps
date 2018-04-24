@@ -1,7 +1,7 @@
 ### MAPS WITH GEOGRAPHICAL LOCATIONS AND PIE CHARTS###
 ### Basic functions ###
 
-# Libraries required
+# Libraries required for script
 # ggplot2  is required for plot functions
 # rgdal is required for readOGR function and compassRose function (as it loads sp package)
 # maps is required for map.axes and map.scale functions
